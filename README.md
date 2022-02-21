@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tamirazrab
-- 👀 I’m interested in getting rid of my final project.
-- 🌱 I’m currently learning nodejs, angular, nestjs,  mongodb.
-- 💞️ I’m looking to collaborate on no project at all.
+- 👀 I’m interested in UI/UX and frontend development.
+- 🌱 I’m currently learning ReactJS, NextJS, SvelteJS.
+- 💞️ I’m looking to collaborate on frontend projects mainly in either react or angular, who needs further improvements in term of providing astonishing user experience.
 - 📫 How to reach me - ?.
 
 <!---
