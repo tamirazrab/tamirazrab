@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **tamirazrab@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/tamirazrab/resume/raw/main/Tambir-Azrab-CV.pdf](https://github.com/tamirazrab/resume/raw/main/Tambir-Azrab-CV.pdf)
+- 📄 Know about my experiences [https://github.com/tamirazrab/resume/raw/main/Tambir-Azrab-CV.pdf](here.)
 
 - ⚡ Fun fact **Very serious about doing things efficiently, like using vim.**
 
