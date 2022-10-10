@@ -10,6 +10,9 @@
   
 
 - 🌱 I’m currently learning Docker & Terraform  
+
+
+- 👨‍💻 All of my projects are available at [tamir.pk](tamir.pk)
   
 
 - ❓ Ask me about anything related to MEAN stack and related technologies  
