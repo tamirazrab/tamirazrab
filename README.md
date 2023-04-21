@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Tuzmo](https://www.tuzmo.com/)  
   
 
-- 🌱 I’m currently learning Docker & Terraform  
+- 🌱 I’m currently learning TDD  
 
 
 - 👨‍💻 All of my projects are available at [tamir.pk](http://tamir.pk)
@@ -85,9 +85,6 @@
 <a href="https://linkedin.com/in/tamirazrab" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/tamirazrab" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
 </div>  
   
 
@@ -102,10 +99,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
 
-<br/>  
+<!-- <br/>   --> 
 
   
 
