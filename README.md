@@ -4,25 +4,18 @@
 
 I specialize in **backend infrastructure** that handles real-world scale — the kind where a production incident doesn't just break a feature, it impacts millions of users and millions of dollars in transactions.
 
-For the past 4 years, I've worked on:
-- **Fintech systems** processing 2M+ monthly transactions for 15M+ users (JazzCash)
-- **Event-driven architectures** using Kafka, MongoDB, PostgreSQL, Redis
-- **Performance-critical services** where 60-second batch jobs need to run in under 10 seconds
-- **Cost-optimized deployments** (modular monoliths on Azure Functions @ <$50/month)
+My recent work includes:
+- **Financial systems** at JazzCash processing 2M+ monthly transactions for 15M+ users
+- **Event-driven services** using Kafka, MongoDB, PostgreSQL, and Redis
+- **Performance optimization** of APIs and batch processing jobs
+- **Deployment infrastructure** on AWS (EC2, S3, CloudFront) with Nginx and GitHub Actions
+- **EdTech backend** for nonprofit serving 100+ schools and 2,000+ students
 
 ## 🛠️ Tech Stack
 
 **Core:** Node.js, TypeScript, Express, NestJS, PostgreSQL, MongoDB, Redis, Kafka, Docker  
 **Familiar:** AWS (EC2/S3/Lambda), OpenShift, Kubernetes, RabbitMQ, GraphQL, Terraform  
 **Learning:** Distributed tracing (OpenTelemetry), service mesh (Istio), chaos engineering
-
-## 🎯 What Problems I Solve
-
-- Scaling backend services under exponential traffic growth
-- Eliminating production incidents through systematic re-architecture
-- Optimizing database queries and batch jobs for high-volume workloads
-- Designing event-driven systems with transactional guarantees
-- Building cost-effective infrastructure without sacrificing reliability
 
 ## 🌟 Open Source
 
