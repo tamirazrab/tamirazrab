@@ -2,7 +2,7 @@
 
 ## 👋 What I Do
 
-I specialize in **backend infrastructure** that handles real-world scale — the kind where a production incident doesn't just break a feature, it impacts millions of users and millions of dollars in transactions.
+I specialize in **backend infrastructure** that handles real-world scale, the kind where a production incident doesn't just break a feature, it impacts millions of users and millions of dollars in transactions.
 
 My recent work includes:
 - **Financial systems** at JazzCash processing 2M+ monthly transactions for 15M+ users
