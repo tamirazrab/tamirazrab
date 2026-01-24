@@ -53,4 +53,3 @@ Contributor to [**Pepr**](https://github.com/defenseunicorns/pepr) — Kubernete
 4. 💪 Opened PR [#7](undefined) in [tamirazrab/parley](https://github.com/tamirazrab/parley)
 5. ❌ Merged PR [#6](undefined) in [tamirazrab/parley](https://github.com/tamirazrab/parley)
 <!--END_SECTION:activity-->
-```
